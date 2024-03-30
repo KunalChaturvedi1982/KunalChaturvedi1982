@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal Chaturvedi</h1>
 <h3 align="center">A passionate Manual Tester from India</h3>
 
+- 🌱 I’m currently learning **Selenium with Java (Automation)**
+
 - 📫 How to reach me **c.kunal048@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
